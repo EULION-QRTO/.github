@@ -9,7 +9,7 @@
 
 Lions Pay · 멋쟁이사자처럼 대학 을지대학교
 
-[Instagram](https://www.instagram.com/likelion_eulji) · [Contact](mailto:you@email.com)
+[Instagram](https://www.instagram.com/likelion_eulji) · [Contact](mailto:eulji@likelion.org)
 
 </div>
 
