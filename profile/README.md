@@ -50,7 +50,7 @@ Lpay(Lions Pay)는 **멋쟁이사자처럼 대학 을지대학교**에서 만든
 
 | 이름 | 역할 | GitHub |
 |---|---|---|
-| 김성민 | PM · UX/UI Design · Frontend · QA | [@아이디](https://github.com/아이디) |
+| 김성민 | PM · UX/UI Design · Frontend · QA | [@아이디](https://github.com/gromiit) |
 | 김동현 | Backend · QA | [@아이디](https://github.com/아이디) |
 | 김민정 | Head of QA | [@아이디](https://github.com/아이디) |
 | 송원석 | QA (Order) | [@아이디](https://github.com/아이디) |
